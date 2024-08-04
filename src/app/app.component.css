@@ -1,0 +1,13 @@
+.menu-content{
+    height: 5vh;
+    background-size: 100%;
+}
+
+.body-content{
+    background-image: url('../../public/img/bosque.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 95vh;
+    overflow: hidden; 
+}
+
